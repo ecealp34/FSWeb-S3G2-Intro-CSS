@@ -1,0 +1,94 @@
+
+
+
+.container header nav a {
+ border: 1px solid white;
+ background: #FF764E;
+ padding: 5px 40px 5px 40px;
+ color:white;
+ display: inline-block;
+ border-radius: 8px;
+ text-decoration: none;
+ margin-bottom: 60px;
+ margin-left: 50px;
+ margin-right: 50px;
+ font-size: medium;
+}
+
+
+nav{
+    display:block
+}
+
+img.yuvarlak {
+    border-radius: 50%;
+    height: 250px;
+    width:250px;
+    object-fit: cover;
+    margin-left: 5em;
+}
+
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.img {
+    width: 100%
+}
+.content-row {
+    align-items: center;
+}
+.content-text {
+   margin-left: 30pm;
+}
+
+.text {
+    background-color: #DDB9A3;
+    margin-left:50px;
+    margin-right:50px;
+}
+
+
+.footer {
+    background-color: #F9E7DC;
+
+}
+
+.full-width {
+    width: 100%;
+    
+    padding: 30px 0 30px 0;
+  }
+ 
+img.Nevşehir {
+    
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    margin-left: 25em;
+    
+}
+img.atv {
+    height: 150px;
+    width: 150px;
+    object-fit: cover;
+    margin-left: 25em;
+}
+
+footer.footer-content {
+    border: 1px solid white;
+    background: #FF764E;
+    padding: 5px 40px 5px 40px;
+    color:white;
+    display: inline-block;
+    border-radius: 8px;
+    text-decoration: none;
+    margin-bottom: 60px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: medium;
+}
